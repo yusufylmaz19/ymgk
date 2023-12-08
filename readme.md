@@ -12,5 +12,8 @@
 #### Proje içerkilerine Results klasöründen ulaşabilirsiniz.
 
 #### [Senaryo](/BalloonAR/Results/senaryo.pdf)
-#### [Video](/BalloonAR/Results/video.mp4)
 #### [APK](/BalloonAR/Results/BallonAR.apk)
+
+#### Video Kaydı
+https://github.com/yusufylmaz19/ymgk/assets/59136289/023edf83-5953-4cb8-90f7-0f9530dee0c9
+
